@@ -1,5 +1,5 @@
 import drawer from "../assets/drawers.jpg";
-import person from "../assets/avatar-michelle.jpg";
+import person from "../assets/avatar-nathan-peterson.webp";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faShare } from "@fortawesome/free-solid-svg-icons";
 import ShareIcons from "./ShareIcons";
